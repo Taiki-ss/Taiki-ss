@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="center" width="500" src="./image/top.png" alt="hello-world" />
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taiki-ss&show_icons=true&theme=tokyonight)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiki-ss&theme=tokyonight&layout=compact)
