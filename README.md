@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img align="center" width="500" src="./image/top.png" alt="hello-world" />
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taiki-ss&show_icons=true&theme=tokyonight)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiki-ss&theme=tokyonight&layout=compact)
@@ -51,6 +49,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
  </a>
 </p>
+
+# Favorite work environment
+<img align="center" width="300px" src="./image/top.png" alt="hello-world" />
 <!--
 **Taiki-ss/Taiki-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
